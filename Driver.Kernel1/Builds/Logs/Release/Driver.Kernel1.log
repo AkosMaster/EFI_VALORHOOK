@@ -1,0 +1,16 @@
+﻿  Building 'valorhook_driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Driver.c
+  Driver.Kernel1.vcxproj -> C:\Users\Admin\Desktop\projs\valorhook\EFI_VALORHOOK\valorhook_base\x64\Release\valorhook_driver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Admin\Desktop\projs\valorhook\EFI_VALORHOOK\valorhook_base\x64\Release\valorhook_driver.sys
+  
+  Driver is a Universal Driver.
+  Could Not Find C:\Users\Admin\Desktop\projs\valorhook\EFI_VALORHOOK\valorhook_base\x64\Release\*.obj
+  Deleted file - C:\Users\Admin\Desktop\projs\valorhook\EFI_VALORHOOK\valorhook_base\x64\Release\valorhook_client.iobj
+  Deleted file - C:\Users\Admin\Desktop\projs\valorhook\EFI_VALORHOOK\valorhook_base\x64\Release\valorhook_client.pdb
+  Deleted file - C:\Users\Admin\Desktop\projs\valorhook\EFI_VALORHOOK\valorhook_base\x64\Release\valorhook_driver.pdb
+  Deleted file - C:\Users\Admin\Desktop\projs\valorhook\EFI_VALORHOOK\valorhook_base\x64\Release\valorhook_client.ipdb
+  Could Not Find C:\Users\Admin\Desktop\projs\valorhook\EFI_VALORHOOK\valorhook_base\x64\Release\*.res
+  Could Not Find C:\Users\Admin\Desktop\projs\valorhook\EFI_VALORHOOK\valorhook_base\x64\Release\*.log
+  A fájlnév, a könyvtárnév vagy a kötetcímke szintaxisa nem megfelelo.
