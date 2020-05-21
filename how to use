@@ -1,0 +1,5 @@
+load efi driver before windows
+load driver using load.bat
+run valorant_client.exe
+????
+profit
